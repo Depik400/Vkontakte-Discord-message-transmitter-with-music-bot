@@ -1,3 +1,4 @@
 dockerfile
 logs*
 *.zip
+node_modules/
